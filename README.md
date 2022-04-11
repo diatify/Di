@@ -1,6 +1,6 @@
 # Di
 idk
-import numpy as np
+from matplotlib import Sympy
 mylist = list('abcedfghijklmnopqrstuvwxyz')
 myarr = np.arange(26)
 mydict = dict(zip(mylist, myarr))
